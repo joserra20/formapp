@@ -8,4 +8,5 @@ También se realizan verificaciones en el lado del servidor aprovechando las eti
 
 ### GitPod
 Se puede visualizar el código del proyecto haciendo click en el siguiente boton.
+
 [![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/joserra20/formapp)
