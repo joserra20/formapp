@@ -5,7 +5,10 @@ Se ha desarrollado una API con métodos GET y POST con el bojetivo de recibir lo
 Se han realizado las validaciones necesarias en el lado del cliente empleando JavaScript.
 ### Validación en el servidor
 También se realizan verificaciones en el lado del servidor aprovechando las etiquetas @NonNull @Email etc de Spring Boot Validator
-
+### Mensajes informativos del log
+Se imprime en la consola cuando se reciben mensajes o se realizan consultas.
+### Cambio de puerto de la aplicación
+El servidor web está configurado en el puerto 8081
 ### GitPod
 Se puede visualizar el código del proyecto haciendo click en el siguiente boton.
 
